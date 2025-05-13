@@ -12,5 +12,6 @@ public class TestingBaba {
 	{
 		
 	WebDriver driver = new ChromeDriver();
+	driver.get("https://testingbaba.com/old");
 	}
 }
